@@ -197,8 +197,6 @@ if __name__ == "__main__":
                     
         # append list of undiscounted rewards for all episodes for given agent
         mc_rewards.append(undiscounted)
-   
-
 
 # SARSA
 import numpy as np
